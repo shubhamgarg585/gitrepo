@@ -1,4 +1,4 @@
-a=input("enter no");
+a=input("enter the no");
 b=input("enter no.");
 c=a;
 a=b;
