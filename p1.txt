@@ -1,0 +1,3 @@
+a=print(input("enter the no.="));
+b=print(input("enter the no.="));
+c=print(a+b);

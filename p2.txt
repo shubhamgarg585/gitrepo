@@ -1,0 +1,6 @@
+a=input("enter no");
+b=input("enter no.");
+c=a;
+a=b;
+b=c;
+Print(a= /n b=);
